@@ -1,6 +1,6 @@
 # Scientific Machine Learning Workshop
 
-This repository contains all presentation slides, lab handouts, and lab code for the Scientific Machine Learning workshop at Cenpes, August 11-August 15. 
+This repository will contain all presentation slides, lab handouts, and lab code for the Scientific Machine Learning workshop at Cenpes. 
 
 The workshop offers an opportunity for attendees to improve their analytical and computational skills in the rapidly-developing field of scientific machine learning, while preparing them to work in highly interdisciplinary research and development projects. The workshop is structured as follows:
 
