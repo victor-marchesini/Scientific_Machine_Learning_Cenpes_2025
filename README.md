@@ -30,15 +30,15 @@ The workshop offers an opportunity for attendees to improve their analytical and
 - Data-driven MOR Part 1: System Identification, SINDy, DMD 
 
 ### Afternoon:
-- Lab 4a: Tutorial on Balanced Truncation, Krylov Subspaces, POD, POD-DEIM
-- Lab 4b: POD-DEIM for reservoir simulation
+- Lab 3a: Tutorial on Balanced Truncation, Krylov Subspaces, POD, POD-DEIM
+- Lab 3b: POD-DEIM for reservoir simulation
 
 ## Day 4 (Gildin)
 ### Morning:
 - Data-driven MOR Part 2: DMDc, OpInf, E2C0, FNO
 
 ### Afternoon:
-- Lab 5: Implementation of basic data-driven MOR for reservoir simulation
+- Lab 4: Implementation of basic data-driven MOR for reservoir simulation
 
 ## References
 1. Braga-Neto, [_Fundamentals of pattern recognition and machine learning_](https://braganeto.engr.tamu.edu/book-website-2nd-edition/), 2nd edition, Springer, 2024.\
