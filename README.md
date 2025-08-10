@@ -7,26 +7,19 @@ The workshop offers an opportunity for attendees to improve their analytical and
 ## Day 1
 ### Morning: 
 - Introduction and overview
-- Basics of Machine Learning, focusing on regression techniques
-
-### Afternoon:
-- Lab 1: Polynomial regression; Running a trained Navier-Stokes PINN
-
-## Day 2
-Morning:
-- Deep Neural Network training
+- Deep Neural Networks
 - Physics-Informed Neural Networks (PINN)
 
 Afternoon:
-- Lab 2: Training a PINN to solving forward and inverse problems
+- Lab 1: PINNs to solve forward and inverse problems
 
-## Day 3
+## Day 2
 ### Morning:
 - Gaussian Process regression
 - Bayesian PDE solvers
 
 ### Afternoon:
-- Lab 3: Solving forward and inverse problems with Gaussian Processes
+- Lab 2: Bayesian methods to solve forward and inverse problems
 
 ## References
 1. Braga-Neto, [_Fundamentals of pattern recognition and machine learning_](https://braganeto.engr.tamu.edu/book-website-2nd-edition/), 2nd edition, Springer, 2024.\
