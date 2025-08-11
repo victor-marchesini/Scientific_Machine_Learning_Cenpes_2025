@@ -6,7 +6,7 @@ The workshop offers an opportunity for attendees to improve their analytical and
 
 ## Day 1 (Braga Neto)
 ### Morning: 
-- Introduction and overview
+- Introduction and Overview
 - Deep Neural Networks
 - Physics-Informed Neural Networks (PINN)
   
@@ -15,10 +15,10 @@ The workshop offers an opportunity for attendees to improve their analytical and
 
 ## Day 2 (Braga Neto)
 ### Morning:
-- Neural Operators
 - Uncertainty Quantification
-- Gaussian Process regression
-- Probabilistic PDE solvers
+- Gaussian Process Regression
+- Probabilistic PDE Solvers
+- Operator Learning
 
 ### Afternoon:
 - Lab 2: Probabilistic solution of forward and inverse problems
