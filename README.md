@@ -16,7 +16,7 @@ The workshop offers an opportunity for attendees to improve their analytical and
 ## Day 2 (Braga Neto)
 ### Morning:
 - Gaussian Process Regression
-- Probabilistic PDE Solvers
+- Physics-Informed Gaussian Processes
 - Operator Learning
 
 ### Afternoon:
