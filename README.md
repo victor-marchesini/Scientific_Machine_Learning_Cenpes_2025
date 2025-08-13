@@ -16,11 +16,11 @@ The workshop offers an opportunity for attendees to improve their analytical and
 ## Day 2 (Braga Neto)
 ### Morning:
 - Gaussian Process Regression
-- Physics-Informed Gaussian Processes
+- Physics-Informed Gaussian Processes (PIGP)
 - Operator Learning
 
 ### Afternoon:
-- Lab 2: Probabilistic solution of forward and inverse problems
+- Lab 2: PIGP solution of forward and inverse problems
 
 ## Day 3 (Gildin)  
 ### Morning:
